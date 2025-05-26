@@ -1,7 +1,6 @@
 
 ---
 
-```markdown
 # 🏃‍♂️ Tienda Deportiva - Proyecto MVC con Node.js y Express
 
 Este es un proyecto web desarrollado con **Node.js**, **Express**, **EJS** y el patrón de arquitectura **MVC (Modelo - Vista - Controlador)**. El sitio muestra productos deportivos organizados por marcas como **Nike, Adidas, Puma, Umbro, Fila, One** y **Under Armour**.
