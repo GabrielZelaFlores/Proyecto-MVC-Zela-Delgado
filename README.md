@@ -49,6 +49,7 @@ mi-proyecto-mvc/
 ├── app.js                          # Configuración principal del servidor Express
 └── package.json
 
+```
 ---
 
 ## 🔄 ¿Dónde se aplica MVC?
