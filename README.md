@@ -50,8 +50,6 @@ mi-proyecto-mvc/
 ├── app.js                          # Configuración principal del servidor Express
 └── package.json
 
-````
-
 ---
 
 ## 🔄 ¿Dónde se aplica MVC?
@@ -68,6 +66,14 @@ mi-proyecto-mvc/
 
 1. Instalar dependencias:
 
+> Verificamos si tenémos el Node.js.
+
+```bash
+node -v
+npm -v
+````
+> Sino, instalamos en: [https://nodejs.org](https://nodejs.org) .
+
 ```bash
 npm install
 ````
@@ -83,23 +89,22 @@ node app.js
 
 ---
 
-## 🖼️ Capturas (simuladas)
+## 🖼️ Capturas
 
-> Puedes reemplazar estas rutas con tus propias capturas reales.
 
 ### Inicio:
 
-![Captura de inicio](public/img/captura-inicio.png)
+![Image](https://github.com/user-attachments/assets/c19221f9-a1b2-4a18-b1a9-1a81663ea8bd)
 
 ### Productos por marca:
 
-![Captura de marca](public/img/captura-marca.png)
+![Image](https://github.com/user-attachments/assets/1f157e1b-dddc-4b65-bee5-e5a0d0695a11)
 
 ---
 
 ## 🧑‍💻 Autor
 
-Proyecto realizado por **Gabriel Zela** como parte del curso de desarrollo web con Node.js.
+Proyecto realizado por **Gabriel Zela** y **Piero Delgado** como parte del curso de desarrollo web con Node.js para el curso de Arquitectura de Software.
 
 ---
 
@@ -116,13 +121,4 @@ Proyecto realizado por **Gabriel Zela** como parte del curso de desarrollo web c
 
 Este proyecto es de uso libre para fines académicos.
 
-````
-
----
-
-✅ **Consejo final**:  
-Guarda este contenido en un archivo llamado `README.md` en la raíz de tu proyecto. Puedes hacerlo fácilmente con:
-
-```bash
-code README.md
 ````
