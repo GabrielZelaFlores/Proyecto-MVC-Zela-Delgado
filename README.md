@@ -33,7 +33,7 @@ El objetivo principal de este proyecto es **aplicar el patrón MVC** en una apli
 
 mi-proyecto-mvc/
 ├── controllers/
-│   └── productoController.js       # Controlador: lógica para manejar las rutas de productos
+│   └── marcaController.js       # Controlador: lógica para manejar las rutas de productos
 ├── models/
 │   └── productos.js                # Modelo: contiene los datos de los productos por marca
 ├── views/
@@ -45,7 +45,7 @@ mi-proyecto-mvc/
 │   └── img/
 │       └── (imágenes de productos por marca)
 ├── routes/
-│   └── index.js                    # Definición de rutas (usa el controlador)
+│   └── web.js                    # Definición de rutas (usa el controlador)
 ├── app.js                          # Configuración principal del servidor Express
 └── package.json
 
